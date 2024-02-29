@@ -1,0 +1,48 @@
+#orejaIzquierda{
+    transform-origin: center;
+    animation: rotateEar 0.5s infinite alternate ease;
+}
+#orejaDerecha {
+    transform-origin: center;
+    animation: rotateEar1 0.5s infinite alternate ease;
+}
+@keyframes rotateEar {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(1deg);}
+}
+@keyframes rotateEar1 {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(3deg);}
+}
+/* Brazo derecho del oso principal */
+#brazoDerecho{
+    transform-origin: center;
+    animation: rotateArm 4s 2s infinite alternate ease;
+}
+@keyframes rotateArm {
+    0%{
+        transform: translate(0px, 0px);
+        transform: rotate(0deg);
+    }
+    40%{
+        transform: translate(-48px, -70px);
+        rotate: 80deg;
+    }
+    70%{
+        transform: translate(-95px, -50px);
+        rotate: 139deg;
+    }
+    100%{
+        transform: translate(-84px, -56px);
+        rotate: 124deg;
+    }
+}
+/* Brazo derecho del oso secundario */ 
+#mano {
+    transform-origin: center;
+    animation: rotateArm2 2s infinite alternate ease;
+}
+@keyframes rotateArm2 {
+    from{rotate: 0deg;}
+    to{rotate: 20deg;}
+}
