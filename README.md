@@ -12,8 +12,8 @@ EncriptBear is a project that provides functionalities for encrypting and decryp
 ## Project Creation Video
 Here you can watch a video showcasing the project creation process, including the initial design in Figma and the code implementation.
 
-<a href='https://youtu.be/ezpLtahOZAc?si=uSQ8cX3JRtpwsaHv' target='_blank'>
-  <img width='40%' src='https://img.youtube.com/vi/ezpLtahOZAc/mqdefault.jpg' alt='ENCRIPTBEAR' />
+<a href='https://youtu.be/S9UBjufo0aQ' target='_blank'>
+  <img width='40%' src='https://img.youtube.com/vi/S9UBjufo0aQ/mqdefault.jpg' alt='ENCRIPTBEAR' />
 </a>
 
 ## Figma Designs
