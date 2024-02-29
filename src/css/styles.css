@@ -111,7 +111,7 @@ textarea::-webkit-scrollbar-thumb {
 
 .text__1 {
   width: 694px;
-  height: 578px;
+  height: 290px;
   position: absolute;
   top: 30px;
   left: 39px;
@@ -120,7 +120,7 @@ textarea::-webkit-scrollbar-thumb {
 .text__2 {
   display: none;
   width: 336px;
-  height: 723px;
+  height: 485px;
   position: absolute;
   top: 50px;
   left: 32px;
@@ -129,7 +129,6 @@ textarea::-webkit-scrollbar-thumb {
 /* container_principal*/
 .container__principal {
   width: 1257px;
-  height: 854px;
   position: relative;
   margin-left: 88px;
 }
@@ -146,13 +145,13 @@ textarea::-webkit-scrollbar-thumb {
 /* container__content*/
 .container__content {
   width: 772px;
-  height: 638px;
+  height: 346px;
 }
 
 .oso__principal {
   position: absolute;
   right: 60px;
-  bottom: 598px;
+  bottom: 306px;
 }
 
 /* container__access */
@@ -164,7 +163,7 @@ textarea::-webkit-scrollbar-thumb {
   align-items: center;
   gap: 20px;
   position: absolute;
-  top: 679px;
+  top: 390px;
 }
 
 .container__information {
@@ -202,7 +201,7 @@ textarea::-webkit-scrollbar-thumb {
 /* container__result*/
 .container__result, .container__result--active {
   width: 400px;
-  height: 910px;
+  height: 639px;
   display: flex;
   flex-direction: column;
   justify-content: center;
