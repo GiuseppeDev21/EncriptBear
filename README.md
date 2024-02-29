@@ -1,4 +1,4 @@
-![Logo](./src/docs/logo.png)
+![Cover Image](./src/docs/Cover.png)
 # EncriptBear
 
 ## Description
@@ -12,7 +12,7 @@ EncriptBear is a project that provides functionalities for encrypting and decryp
 ## Project Creation Video
 Here you can watch a video showcasing the project creation process, including the initial design in Figma and the code implementation.
 
-[![Project Creation Video](https://markdown-videos.deta.dev/youtube/ezpLtahOZAc)](https://youtu.be/ezpLtahOZAc)
+[![Project Creation Video](https://youtu.be/ezpLtahOZAc)]()
 
 ## Figma Designs
 Below are the initial designs of the project created in Figma.
